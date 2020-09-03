@@ -6,4 +6,4 @@
 This project is a starting point for a Flutter application.
 
 ### Proje Resimleri
-<img src="project_img1.png">
+<img src="ProjectImages/project_img1.png">
